@@ -128,9 +128,13 @@ nav ul li a{
 }
 
 .right img{
-    width:100%;
-    position:relative;
-    z-index:2;
+    width: 380px;
+    max-width: 90%;
+    position: relative;
+    z-index: 2;
+    display: block;
+    margin: auto;
+    background: transparent;
 }
 
 /* Cards */
