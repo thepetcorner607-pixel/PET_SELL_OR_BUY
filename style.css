@@ -21,6 +21,7 @@ nav{
 }
 
 .logo{
+    width:300px;
     font-size:30px;
     color:#00e5d0;
     font-weight:bold;
@@ -31,7 +32,7 @@ nav{
     margin-left:10px;
 }
 ..hero-logo{
-    width:300px;
+    width:600px;
     position:absolute;
     top:50%;
     left:50%;
